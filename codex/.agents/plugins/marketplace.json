@@ -1,0 +1,20 @@
+{
+  "name": "ai-plugins-codex",
+  "interface": {
+    "displayName": "AI Plugins Codex"
+  },
+  "plugins": [
+    {
+      "name": "youtube-video-script-generator",
+      "source": {
+        "source": "local",
+        "path": "./plugins/youtube-video-script-generator"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

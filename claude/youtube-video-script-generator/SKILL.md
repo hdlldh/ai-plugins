@@ -37,6 +37,7 @@ Generate a regular YouTube video script that builds long-term viewer connection,
    - whether the regular video delivers high value: viewers feel they understand better, saved time, or can actually use the content
    - whether the regular video maintains high compression: dense and information-rich without fluff, long intros, repetition, or slow pacing
    - whether the regular video is easy to understand: uses analogies, visuals, and clear explanations to simplify concepts
+   - whether the regular video is formatted for speech synthesis with a clear 2-second pause between major sections
    - whether short videos target the **same audience** as the regular video
    - whether short videos **create an information gap**: viewers feel "I want the full explanation" and are driven to click the long video
    - whether short videos **provide real value** upfront without feeling like ads

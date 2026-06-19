@@ -9,7 +9,7 @@
   "interface": {
     "displayName": "YouTube Video Script Generator",
     "shortDescription": "Generate long-form YouTube scripts plus related Shorts with review loops.",
-    "longDescription": "Creates an 8+ minute connection-focused YouTube script, 2-3 related short-form scripts, strong titles, and reviewer feedback with up to three refinement rounds.",
+    "longDescription": "Creates an 8+ minute connection-focused YouTube script, 2-3 related short-form scripts, strong titles, and reviewer feedback with up to three refinement rounds. Generated scripts should include clear 2-second pauses between major sections for Eleven Labs speech synthesis.",
     "developerName": "Local developer",
     "category": "Productivity",
     "capabilities": [
