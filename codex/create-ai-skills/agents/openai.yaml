@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create AI Skills"
+  short_description: "Build portable Claude and Codex skills"
+  default_prompt: "Use $create-ai-skills to design a portable skill for Claude and Codex."
