@@ -1,0 +1,21 @@
+{
+  "name": "youtube-video-script-generator",
+  "version": "0.1.0",
+  "description": "Generate long-form YouTube scripts, related Shorts, titles, and review/refinement notes.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "YouTube Video Script Generator",
+    "shortDescription": "Generate long-form YouTube scripts plus related Shorts with review loops.",
+    "longDescription": "Creates an 8+ minute connection-focused YouTube script, 2-3 related short-form scripts, strong titles, and reviewer feedback with up to three refinement rounds.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [
+      "Writing",
+      "Review"
+    ],
+    "defaultPrompt": "Create a YouTube script package with Shorts and review notes."
+  }
+}

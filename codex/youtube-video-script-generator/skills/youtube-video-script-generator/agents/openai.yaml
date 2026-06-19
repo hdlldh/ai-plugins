@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Video Script Generator"
+  short_description: "Generate a regular YouTube video script plus related short promotional videos with review loops."
+  default_prompt: "Use $youtube-video-script-generator to create an 8+ minute connection-focused video script and a set of related under-3-minute short video scripts, then review and refine them."
